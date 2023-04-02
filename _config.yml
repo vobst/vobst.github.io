@@ -23,7 +23,7 @@ email: webmaster@eb9f.de
 description: >- # this means to ignore newlines until "baseurl:"
   Just another one of those blogs on Linux and stuff
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://eb9f.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.eb9f.de" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: vobst
 
 # Build settings
